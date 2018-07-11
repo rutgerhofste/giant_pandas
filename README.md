@@ -1,6 +1,8 @@
 # Giant Pandas
 Cloud based Pandas approach for giant dataframes.
 
+![Giant Pandas Logo](/other/logo.svg)
+
 
 
 ## Some Background
