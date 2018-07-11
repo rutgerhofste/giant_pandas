@@ -1,5 +1,5 @@
 # <img src="/other/giantpandas_logo.svg" alt="alt text" height="100"> Giantpandas 
-Cloud based Pandas approach for giant dataframes.
+Cloud based Pandas approach for gigantic dataframes.
 
 
 
