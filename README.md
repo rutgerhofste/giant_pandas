@@ -1,9 +1,7 @@
 # Giantpandas
 Cloud based Pandas approach for giant dataframes.
 
-![Giant Pandas Logo](/other/giantpandas_logo.svg)
-
-<img src="/other/giantpandas_logo.svg" alt="alt text" width="100" height="100">
+<img src="/other/giantpandas_logo.svg" alt="alt text" height="100">
 
 
 ## Some Background
