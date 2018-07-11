@@ -1,4 +1,4 @@
-# Giant Pandas
+# Giantpandas
 Cloud based Pandas approach for giant dataframes.
 
 ![Giant Pandas Logo](/other/giantpandas_logo.svg)
